@@ -2,7 +2,8 @@ It's a file which contains all Python chapters related to topic wise with some b
 #### Chapter 1, 2 are included as an introductory part. 
 #### Chapter 3 : if-else , Operators, Keywords -(in, break, continue), loops -(while, for, infinite), Number guessing game
 #### Chapter 4 : Functions
-##### fibonacci series, ex. palindrome 
+#### --> fibonacci series, ex. palindrome 
+
 #### Chapter 5 : List []
 #### Chapter 6 : tuple ()
 #### Chapter 7 : dictionary {} - collection of key-value pairs
@@ -13,7 +14,8 @@ It's a file which contains all Python chapters related to topic wise with some b
 ####              To unpack kwargs : use ** operator, itunpacks kwargs as - dictionary {} 
 
 #### Chapter 12 : Lambda functions 
-##### fizzbuzz problem
+#### --> fizzbuzz problem
+
 #### Chapter 13 : enumerate(), map(), filter(), zip(), any(), all(), min(), max(), sort(), sorted(), doc strings 
 ##### enumerate() -used with for loop to track position of item
 ##### iterator vs iterables : 
