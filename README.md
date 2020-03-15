@@ -2,7 +2,7 @@ It's a file which contains all Python chapters related to topic wise with some b
 ### Chapter 1, 2 are included as an introductory part. 
 ### Chapter 3 : if-else , Operators, Keywords -(in, break, continue), loops -(while, for, infinite), Number guessing game
 ### Chapter 4 : Functions
-#### --> fibonacci series, ex. palindrome 
+#### --> fibonacci series, palindrome, Recursion, Factorial, Sudoku. 
 
 ### Chapter 5 : List []
 ### Chapter 6 : tuple ()
